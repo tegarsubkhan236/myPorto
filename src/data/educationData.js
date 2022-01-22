@@ -1,22 +1,22 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Marble Hills Middle School',
-        course: 'Higher Secondary Education',
-        startYear: '2007',
-        endYear: '2015'
+        institution: 'Indonesian Computer University, Bandung',
+        course: 'Bachelor of Information System',
+        startYear: 'AUG 2016',
+        endYear: 'AUG 2021'
     },
     {
         id: 2,
-        institution: 'Somerset School of Science',
-        course: 'Bachelor of Technology',
+        institution: 'SMA 5 Purwokerto',
+        course: 'Senior High School',
         startYear: '2015',
         endYear: '2019'
     },
     {
         id: 3,
-        institution: 'Hawking University, Cambridge',
-        course: 'Master of Technology',
+        institution: 'SMP 6 Purwokerto',
+        course: 'Middle High School',
         startYear: '2019',
         endYear: 'Present'
     },
