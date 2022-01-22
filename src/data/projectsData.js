@@ -20,6 +20,28 @@ export const projectsData = [
         demo: 'http://still-cove-58120.herokuapp.com/',
         image: one
     },
+    {
+        id: 2,
+        projectName: 'Inventory',
+        projectDesc: 'This project helps you filter today\'s stock updates, ' +
+            'you can also find out the true intrinsic value of stocks, ' +
+            'the data source for this project is taken from Yahoo Finance API',
+        tags: ['Laravel', 'MySQL'],
+        code: 'https://github.com/tegarsubkhan236/kafalafi',
+        demo: 'http://still-cove-58120.herokuapp.com/',
+        image: one
+    },
+    {
+        id: 3,
+        projectName: 'Fordas',
+        projectDesc: 'This project helps you filter today\'s stock updates, ' +
+            'you can also find out the true intrinsic value of stocks, ' +
+            'the data source for this project is taken from Yahoo Finance API',
+        tags: ['Laravel', 'MySQL'],
+        code: 'https://github.com/tegarsubkhan236/kafalafi',
+        demo: 'http://still-cove-58120.herokuapp.com/',
+        image: one
+    },
     // {
     //     id: 2,
     //     projectName: 'Railway Tracking',
