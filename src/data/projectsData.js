@@ -1,4 +1,6 @@
 import one from '../assets/svg/projects/one.svg'
+import two from '../assets/svg/projects/two.svg'
+import three from '../assets/svg/projects/three.svg'
 
 
 export const projectsData = [
@@ -10,94 +12,27 @@ export const projectsData = [
             'the data source for this project is taken from Yahoo Finance API',
         tags: ['Laravel', 'MySQL', 'REST API'],
         code: 'https://github.com/tegarsubkhan236/kafalafi',
-        demo: 'http://still-cove-58120.herokuapp.com/',
+        demo: 'http://stockheist.herokuapp.com/',
         image: one
     },
     {
         id: 2,
-        projectName: 'Inventory',
-        projectDesc: 'This project helps you filter today\'s stock updates, ' +
-            'you can also find out the true intrinsic value of stocks, ' +
-            'the data source for this project is taken from Yahoo Finance API',
+        projectName: 'Lumbung Indonesia',
+        projectDesc: '',
         tags: ['Laravel', 'MySQL'],
-        code: 'https://github.com/tegarsubkhan236/kafalafi',
-        demo: 'http://still-cove-58120.herokuapp.com/',
-        image: one
+        code: 'https://github.com/tegarsubkhan236/laravel_inventory',
+        demo: 'https://lumbungindonesia.herokuapp.com/',
+        image: two
     },
     {
         id: 3,
         projectName: 'Fordas',
-        projectDesc: 'This project helps you filter today\'s stock updates, ' +
-            'you can also find out the true intrinsic value of stocks, ' +
-            'the data source for this project is taken from Yahoo Finance API',
+        projectDesc: '',
         tags: ['Laravel', 'MySQL'],
         code: 'https://github.com/tegarsubkhan236/kafalafi',
-        demo: 'http://still-cove-58120.herokuapp.com/',
-        image: one
+        demo: 'https://fordas.herokuapp.com/',
+        image: three
     },
-    // {
-    //     id: 2,
-    //     projectName: 'Railway Tracking',
-    //     projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
-    //     tags: ['Django', 'Tailwind CSS'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: two
-    // },
-    // {
-    //     id: 3,
-    //     projectName: 'Weather App',
-    //     projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
-    //     tags: ['Django', 'CSS', 'Material Ui'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: three
-    // },
-    // {
-    //     id: 4,
-    //     projectName: 'Android Patient Tracker',
-    //     projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
-    //     tags: ['Flutter', 'Firebase'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: four
-    // },
-    // {
-    //     id: 5,
-    //     projectName: 'E-Commerce App',
-    //     projectDesc: 'A Simple E-commerce application',
-    //     tags: ['React Native', 'Firebase'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: five
-    // },
-    // {
-    //     id: 6,
-    //     projectName: 'Uber Lite',
-    //     projectDesc: 'Uber clone',
-    //     tags: ['Flutter'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: six
-    // },
-    // {
-    //     id: 7,
-    //     projectName: 'Stock Market App',
-    //     projectDesc: 'A simple stock market API app',
-    //     tags: ['React', 'Redux', 'Bootstrap'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: seven
-    // },
-    // {
-    //     id: 8,
-    //     projectName: 'Car Pooling System',
-    //     projectDesc: 'The carpooling system merges multiple people in a car which leads to meet new people, reduces pollution',
-    //     tags: ['Flutter', 'React'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: eight
-    // },
 ]
 
 
